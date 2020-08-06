@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\login"
+      },
+      {
+        "path": "/reg",
+        "name": "reg",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\article"
+      }
+    ]
+  }
+]
