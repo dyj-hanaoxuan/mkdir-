@@ -6,38 +6,46 @@
       {
         "path": "",
         "name": "home",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\home"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\home",
+        "_name": "_612feec2"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\login"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\login",
+        "_name": "_75f39c34"
       },
       {
         "path": "/reg",
         "name": "reg",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\login"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\login",
+        "_name": "_75f39c34"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\profile"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\profile",
+        "_name": "_756820e6"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\settings"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\settings",
+        "_name": "_6e47e6f4"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\editor"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\editor",
+        "_name": "_6197a2e0"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\article"
+        "component": "F:\\\\myweb\\\\vue\\\\mkdir realword\\\\pages\\\\article",
+        "_name": "_5c326433"
       }
-    ]
+    ],
+    "_name": "_49f9ef66"
   }
 ]

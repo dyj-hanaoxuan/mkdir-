@@ -43,7 +43,7 @@
 
                     <div class="article-preview">
                         <div class="article-meta">
-                            <a href="profile.html"><img src="http://i.imgur.com/N4VcUeJ.jpg" /></a>
+                            <a href="profile.html"><img src="http://i.imgur.com/N4VcUeJ.jpg"/></a>
                             <div class="info">
                                 <a href="" class="author">Albert Pai</a>
                                 <span class="date">January 20th</span>
