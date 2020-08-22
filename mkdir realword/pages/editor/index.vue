@@ -31,9 +31,10 @@
 </template>
 
 <script>
-    export default {
-        name: "EditorIndex"
-    }
+  export default {
+    middleware: 'authenticated',//验证登录
+    name: "EditorIndex"
+  }
 </script>
 <style scoped>
 

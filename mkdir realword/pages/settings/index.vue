@@ -37,7 +37,8 @@
 
 <script>
     export default {
-        name: "settingsIndex"
+      middleware: 'authenticated',//验证登录
+      name: "settingsIndex"
     }
 </script>
 

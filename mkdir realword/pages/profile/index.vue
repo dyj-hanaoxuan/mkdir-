@@ -83,7 +83,8 @@
 
 <script>
     export default {
-        name: "userProfile"
+      middleware: 'authenticated',//验证登录
+      name: "userProfile"
     }
 </script>
 

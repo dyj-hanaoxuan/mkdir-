@@ -45,6 +45,7 @@
     //只在客户端加载
     const Cookie = process.client ? require('js-cookie') : undefined
     export default {
+      middleware: 'notAuthticated',//验证登录
         name: "loginIndex",
         data () {
             return {
